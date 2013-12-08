@@ -5,9 +5,6 @@ This file will not include any new information
 B
 B
 B
-A
-A
-A
 D
 D
 D
