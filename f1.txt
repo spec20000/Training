@@ -4,4 +4,3 @@ Line Two
 This is a newly introduced line
 Line Four
    Last Line
-
