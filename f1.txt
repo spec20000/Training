@@ -3,5 +3,5 @@ Line Two
 	Line Three
 This is a newly introduced Line
 Line Four
-   Las Line
+   Last Line
 
