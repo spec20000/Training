@@ -1,6 +1,6 @@
 Line One 
 Line Two
 	Line Three
-This is a newly introduced line
+This is a newly introduced Line
 Line Four
  Last Line
