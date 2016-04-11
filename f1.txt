@@ -3,4 +3,4 @@ Line Two
 	Line Three
 This is a newly introduced line
 Line Four
-   Last Line
+ Last Line
